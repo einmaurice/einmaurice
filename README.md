@@ -1,3 +1,5 @@
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+
 # 💫 About Me:
 🎉 ➜ Born on August 15, 2008<br>🏫 ➜ Currently attending the City of Cologne Vocational College Südstadt<br>🔧 ➜ Currently learning Java and web development<br>🤙 ➜ In my free time, I enjoy meeting friends
 
