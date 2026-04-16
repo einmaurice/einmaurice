@@ -6,8 +6,9 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/einmaurice/Bilder/Frankfurt.png" alt="Frankfurt Skyline" width="100%" style="max-width: 800px; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  <img src="Bilder/Frankfurt.png" alt="Frankfurt Skyline" width="100%" style="max-width: 800px; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 </div>
+
 ###
 
 <div align="center">
@@ -55,16 +56,13 @@
 ###
 
 <div align="center" style="margin-top: 40px;">
-  <div style="display: inline-block; text-align: left; max-width: 600px; vertical-align: top; margin-right: 20px;">
-    <p>
-      - 🎓 **Bildungsweg:** Ausbildung zum Kaufmann für Versicherungen und Finanzanlagen (Voraussichtlicher Abschluss am 01.09.2027).<br><br>
-      - ⚙️ **Derzeitiger Fokus:** Ganzheitliche Kundenberatung bei der DVAG und die stetige Optimierung von Web-Projekten.<br><br>
-      - 📚 **Spezialisierung:** Absicherung, Vermögensaufbau, erneuerbare Energien (PV & Wärmepumpen) sowie Webentwicklung.<br><br>
-      - 📫 **Kontakt:** Am besten erreichbar über LinkedIn oder per E-Mail für Beratungen und Kooperationen.<br><br>
-      - ⚡️ **Hintergrund:** Ich verbinde die analytische, strukturierte Welt der Finanzen mit der kreativen Logik der Webentwicklung.
-    </p>
+  <div style="display: inline-block; text-align: left; max-width: 800px;">
+    🎓 <strong>Bildungsweg:</strong> Ausbildung zum Kaufmann für Versicherungen und Finanzanlagen (Voraussichtlicher Abschluss am 01.09.2027).<br><br>
+    ⚙️ <strong>Derzeitiger Fokus:</strong> Ganzheitliche Kundenberatung bei der DVAG und die stetige Optimierung von Web-Projekten.<br><br>
+    📚 <strong>Spezialisierung:</strong> Absicherung, Vermögensaufbau, erneuerbare Energien (PV & Wärmepumpen) sowie Webentwicklung.<br><br>
+    📫 <strong>Kontakt:</strong> Am besten erreichbar über LinkedIn oder per E-Mail für Beratungen und Kooperationen.<br><br>
+    ⚡️ <strong>Hintergrund:</strong> Ich verbinde die analytische, strukturierte Welt der Finanzen mit der kreativen Logik der Webentwicklung.
   </div>
-  <img height="180" src="https://github.com/einmaurice.png" alt="Profilbild Maurice" style="vertical-align: top; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </div>
 
 ###
@@ -72,12 +70,11 @@
 <br clear="both">
 <div align="center">
   <h2 align="center">Mein GitHub-Beitrags-Rhythmus</h2>
-  <img src="https://raw.githubusercontent.com/einmaurice/einmaurice/output/snake.svg" alt="Schlangenanimation s/w" />
+  <img src="https://raw.githubusercontent.com/einmaurice/einmaurice/output/snake.svg" alt="Schlangenanimation" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/einmaurice/count.svg?theme=s/w" alt="Profil-Zähler s/w" />
+  <img src="https://profile-counter.glitch.me/einmaurice/count.svg" alt="Profil-Zähler" />
 </div>
-](https://raw.githubusercontent.com/einmaurice/Bilder/main/Frankfurt.png)
