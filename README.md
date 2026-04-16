@@ -6,7 +6,7 @@
 ###
 
 <div align="center">
-  <img src="Bilder/Frankfurt.png" alt="Frankfurt Skyline" width="100%" style="max-width: 800px; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  <img src="Bilder/Frankfurt.png" alt="Frankfurt Skyline" width="100%" style="max-width: 450px; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 </div>
 
 ###
@@ -40,15 +40,15 @@
 
 <div align="center">
   <h2 align="center">Vernetzen Sie sich mit mir</h2>
-  <a href="https://www.linkedin.com/in/DEIN_LINKEDIN_NAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/mauricebüchler/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=333333&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo s/w" />
   </a>
   <img width="12" />
-  <a href="https://DEINE_DVAG_WEBSITE_ODER_AENLICHES" target="_blank">
+  <a href="https://mauricebuechler.de" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Webseite&logo=googlechrome&label=&color=333333&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo s/w" />
   </a>
   <img width="12" />
-  <a href="mailto:DEINE_EMAIL@BEISPIEL.DE" target="_blank">
+  <a href="mailto:maurice.buechler@outlook.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=333333&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo s/w" />
   </a>
 </div>
@@ -60,7 +60,7 @@
     🎓 <strong>Bildungsweg:</strong> Ausbildung zum Kaufmann für Versicherungen und Finanzanlagen (Voraussichtlicher Abschluss am 01.09.2027).<br><br>
     ⚙️ <strong>Derzeitiger Fokus:</strong> Ganzheitliche Kundenberatung bei der DVAG und die stetige Optimierung von Web-Projekten.<br><br>
     📚 <strong>Spezialisierung:</strong> Absicherung, Vermögensaufbau, erneuerbare Energien (PV & Wärmepumpen) sowie Webentwicklung.<br><br>
-    📫 <strong>Kontakt:</strong> Am besten erreichbar über LinkedIn oder per E-Mail für Beratungen und Kooperationen.<br><br>
+    📫 <strong>Kontakt:</strong> Am besten erreichbar über meine Webseite oder per E-Mail für Beratungen und Bewerbungen<br><br>
     ⚡️ <strong>Hintergrund:</strong> Ich verbinde die analytische, strukturierte Welt der Finanzen mit der kreativen Logik der Webentwicklung.
   </div>
 </div>
@@ -76,5 +76,5 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/einmaurice/count.svg" alt="Profil-Zähler" />
+  <img src="https://komarev.com/ghpvc/?username=einmaurice&label=Profilaufrufe&color=333333&style=for-the-badge" alt="Profil-Zähler" />
 </div>
