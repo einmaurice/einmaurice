@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://imgs.search.brave.com/JJovdebcMMX25xcsWvCDGlVH1KjRdjlbbIxLb_U1dsw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c2t5bGluZWF0bGFz/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMi8wMS9Ecm9o/bmVuYXJ0aWtlbC1U/aG9tYXMtR2Vzc25l/ci1CYW5rZW52aWVy/dGVsLmpwZw" alt="Minimalistisches s/w-Banner" width="100%" />
+  <img src="https://example.com/DEIN_PROFESSIONELLES_SCHWARZ_WEISS_BANNER.jpg" alt="Minimalistisches s/w-Banner" width="100%" />
 </div>
 
 <div align="center">
@@ -10,12 +10,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=einmaurice&locale=de&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&date_format=j M[ Y]" height="150" alt="Streak Graph s/w" style="margin: 10px;" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=einmaurice&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=de&hide_border=true" height="150" alt="Stats Graph s/w" style="margin: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=einmaurice&locale=de&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="Languages Graph s/w" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/einmaurice/Bilder/main/Frankfurt.png" alt="Frankfurt Skyline" width="100%" style="max-width: 800px; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 </div>
-
 ###
 
 <div align="center">
@@ -47,16 +43,16 @@
 
 <div align="center">
   <h2 align="center">Vernetzen Sie sich mit mir</h2>
-  <a href="https://mauricebuechler.de" target="_blank">
+  <a href="https://www.linkedin.com/in/DEIN_LINKEDIN_NAME/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=333333&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo s/w" />
+  </a>
+  <img width="12" />
+  <a href="https://DEINE_DVAG_WEBSITE_ODER_AENLICHES" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Webseite&logo=googlechrome&label=&color=333333&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo s/w" />
   </a>
   <img width="12" />
-  <a href="mailto:maurice.buechler@outlook.com" target="_blank">
+  <a href="mailto:DEINE_EMAIL@BEISPIEL.DE" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=333333&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo s/w" />
-  </a>
-  <img width="12" />
-  <a href="https://www.linkedin.com/in/mauricebüchler/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=333333&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo s/w" />
   </a>
 </div>
 
@@ -68,7 +64,7 @@
       - 🎓 **Bildungsweg:** Ausbildung zum Kaufmann für Versicherungen und Finanzanlagen (Voraussichtlicher Abschluss am 01.09.2027).<br><br>
       - ⚙️ **Derzeitiger Fokus:** Ganzheitliche Kundenberatung bei der DVAG und die stetige Optimierung von Web-Projekten.<br><br>
       - 📚 **Spezialisierung:** Absicherung, Vermögensaufbau, erneuerbare Energien (PV & Wärmepumpen) sowie Webentwicklung.<br><br>
-      - 📫 **Kontakt:** Am besten erreichbar über meine Webseite oder per E-Mail für Beratungen und Kooperationen.<br><br>
+      - 📫 **Kontakt:** Am besten erreichbar über LinkedIn oder per E-Mail für Beratungen und Kooperationen.<br><br>
       - ⚡️ **Hintergrund:** Ich verbinde die analytische, strukturierte Welt der Finanzen mit der kreativen Logik der Webentwicklung.
     </p>
   </div>
