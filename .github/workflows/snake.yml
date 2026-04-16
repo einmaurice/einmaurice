@@ -2,7 +2,6 @@ name: Generate professional snake animation (Black and White)
 
 on:
   schedule:
-    # Führe alle 6 Stunden aus, um die Statistiken aktuell zu halten
     - cron: "* */6 * * *"
   workflow_dispatch:
   push:
@@ -17,11 +16,10 @@ jobs:
 
     steps:
       - name: generate snake.svg
-        # Benutze die modernste Version von snk für Farbpaletten
-        uses: Platane/snk@v2.0.1
+        # Wir nutzen jetzt die aktuelle Version 3
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # Konfiguriere die Farbpalette für ein professionelles s/w-Thema
           outputs: |
             dist/snake.svg?color_snake=%23333333&color_dot=%23EEEEEE&color_dot_special=%23FFFFFF&color_head=%23000000
 
