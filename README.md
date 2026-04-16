@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://example.com/DEIN_PROFESSIONELLES_SCHWARZ_WEISS_BANNER.jpg" alt="Minimalistisches s/w-Banner" width="100%" />
-</div>
-
-<div align="center">
   <h1 align="center" style="border: none; margin-top: 30px;">GUTEN TAG 👋, ICH BIN MAURICE</h1>
   <p align="center">Selbstständiger Vermögensberater bei der DVAG | Experte für Finanzen, Versicherungen & Erneuerbare Energien | Passionierter Webentwickler</p>
 </div>
@@ -10,7 +6,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/einmaurice/Bilder/main/Frankfurt.png" alt="Frankfurt Skyline" width="100%" style="max-width: 800px; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  <img src="https://raw.githubusercontent.com/einmaurice/Bilder/Frankfurt.png" alt="Frankfurt Skyline" width="100%" style="max-width: 800px; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 </div>
 ###
 
@@ -84,3 +80,4 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/einmaurice/count.svg?theme=s/w" alt="Profil-Zähler s/w" />
 </div>
+](https://raw.githubusercontent.com/einmaurice/Bilder/main/Frankfurt.png)
